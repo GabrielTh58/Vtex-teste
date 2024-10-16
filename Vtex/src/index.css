@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary-color: #F71963;
+    --text-color-primary: #ffffff;
+    --text-color-secondary: #9F9F9F;  
+    --text-color-tertiary: #4E4E4E;
+
+    --font-sm: 12px;
+    --font-md: 18px;
+    --font-lg: 30px;
+    --font-xl: 40px;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  html {
+    font-size: 62.5%;
+  }
+}
