@@ -9,7 +9,7 @@
     --text-color-secondary: #9F9F9F;  
     --text-color-tertiary: #4E4E4E;
 
-    --font-sm: 12px;
+    --font-sm: 10px;
     --font-md: 18px;
     --font-lg: 30px;
     --font-xl: 40px;
@@ -28,5 +28,6 @@
 
   html {
     font-size: 62.5%;
-  }
+  }  
 }
+
