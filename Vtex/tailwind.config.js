@@ -20,6 +20,7 @@ export default {
       },
       backgroundImage: {
         'hero-pattern': "url('./src/assets/hero.png')", 
+        'card-parceria-pattern': "url('./src/assets/card.png')",
       },
       boxShadow: {
         'category-shadow': '0px 4px 11px 0px rgba(0, 0, 0, 0.21)',
